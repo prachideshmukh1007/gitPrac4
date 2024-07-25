@@ -19,4 +19,4 @@ git checkout filename
 
  # scenario 3
  # removing the commit to roll back spect commit
-
+ git reset 20d1e38
