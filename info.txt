@@ -20,3 +20,8 @@ git checkout filename
  # scenario 3
  # removing the commit to roll back spect commit
  git reset 20d1e38
+
+total branch
+
+1) git branch
+2) git branch branchName
