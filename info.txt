@@ -25,3 +25,4 @@ total branch
 
 1) git branch
 2) git branch branchName
+3) git checkout gmail1(git add./git commit -m/git log)
